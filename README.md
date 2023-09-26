@@ -24,7 +24,7 @@ An interactive web-based chat application powered by OpenAI Codex. Users can ask
 
 - `index.html`: The main HTML file rendering the chat interface.
 - `script.js`: Handles the dynamic functionality of the chat interface, including the typing effect, sending messages, and fetching responses from the server.
-- `style.css`: (Not provided in the shared code) Presumably contains styles for the chat interface.
+- `style.css`: Contains styles for the chat interface.
 
 ### Server
 
