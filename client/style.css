@@ -152,3 +152,8 @@ form img {
   width: 30px;
   height: 30px;
 }
+
+textarea:hover {
+  cursor: pointer;
+  background: rgba(255,255,255,0.1);
+}
